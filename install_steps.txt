@@ -1,0 +1,10 @@
+1. git clone the repo
+2.  in your virtual env run the following command
+(myvenv) Downloads #$ pip install -e version-0.1.1
+
+you should see the following result
+Obtaining file:///Users/amit.sawant/Downloads/version-0.1.1
+Installing collected packages: version
+  Running setup.py develop for version
+Successfully installed version
+(myvenv) Downloads #$ 
