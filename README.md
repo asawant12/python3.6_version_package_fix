@@ -1,5 +1,5 @@
 # python3.6_version_package_fix
-in python 3.6 pip install was failing for version. I have fixed it here. Please clone download and install
+in python 3.6.5 pip install was failing for version. I have fixed it here. Please clone download and install
 
 Here is the issue
 
